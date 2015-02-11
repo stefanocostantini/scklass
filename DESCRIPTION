@@ -1,0 +1,14 @@
+Package: scklass
+Title: k-NN classification
+Version: 0.0.1
+Author: Stefano Costantini <stefano.costantini@barcelonagse.eu>
+Maintainer: Stefano Costantini <stefano.costantini@barcelonagse.eu>
+Description: Library with functions to carry out k-NN classification
+License: see LICENCE
+Date: 2015-02-11
+Type: Package
+Depends: R (>= 2.15.0)
+URL: https://github.com/stefanocostantini/scklass
+Bugreport: https://github.com/stefanocostantini/scklass/issues
+BuildKeepEmpty: TRUE
+LazyData: TRUE
